@@ -20,3 +20,17 @@ nav {
   grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
   gap: 1rem;
 }
+
+.search-btn {
+  position: absolute;
+  top: 0;
+  right: 0.5rem;
+  background-color: #7986cb;
+}
+.btn {
+  background-color: #7986cb;
+}
+
+label:not(:last-child) {
+  margin-right: 1rem;
+}
