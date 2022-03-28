@@ -1,4 +1,4 @@
 React App Movies
 
- [Demo](https://github.com/inga888/movies_react).
+ [Demo](https://inga888.github.io/movies_react/).
 
